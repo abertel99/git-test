@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/Aurelien/MLOPS/mlruns/1/92094c45f35c4c3c93713cd8ac3c5a79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 92094c45f35c4c3c93713cd8ac3c5a79
+run_uuid: 92094c45f35c4c3c93713cd8ac3c5a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655213914918
+status: 1
+tags: []
+user_id: jupyter
