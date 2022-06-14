@@ -1,2 +1,3 @@
-# git-test
-Git Test Tutorial
+# Test Git
+
+Nous travaillons sur les branches de Git !
