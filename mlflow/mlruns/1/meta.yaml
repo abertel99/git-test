@@ -1,4 +1,0 @@
-artifact_location: file:///home/jupyter/Aurelien/MLOPS/Workflow/mlruns/1
-experiment_id: '1'
-lifecycle_stage: active
-name: mlflow_exp
